@@ -44,7 +44,7 @@
       "title": "Online Resume Builder with AI",
       "description": "An intelligent web application that helps users create professional resumes with AI-driven suggestions and formatting.",
       "tech": ["React", "Tailwind CSS", "Node.js"],
-      "image": "/Screenshot 2026-04-28 152938.png", 
+      "image": "/screenshot-project.png", 
       "demoLink": "#",
       "githubLink": "https://github.com/SumitSinghRajput-ux/online-resume-builder.git"
     }

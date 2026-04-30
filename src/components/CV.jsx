@@ -3,7 +3,7 @@ import portfolioData from "../data/portfolio-data.json";
 import { FaDownload, FaEye } from "react-icons/fa";
 
 const CV = () => {
-  const { cvUrl } = portfolioData.about;
+  const cvUrl = `${import.meta.env.BASE_URL}Sumit_Kumar_CV.pdf`;
 
   const containerVariants = {
     hidden: { opacity: 0 },

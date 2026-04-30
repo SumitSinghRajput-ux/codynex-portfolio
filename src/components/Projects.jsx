@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import portfolioData from "../data/portfolio-data.json";
 import { FiGithub, FiExternalLink } from "react-icons/fi";
+import projectImg from "../assets/screenshot-project.png";
 
 const Projects = () => {
   const { projects } = portfolioData;
@@ -48,7 +49,7 @@ const Projects = () => {
                 <div className="w-full lg:w-3/5 relative group cursor-pointer hover-target">
                   <div className="absolute inset-0 bg-pink-200/20 mix-blend-multiply group-hover:bg-transparent transition-colors duration-500 z-10 rounded-xl" />
                   <img 
-                    src="/Screenshot 2026-04-28 152938.png"
+                    src={projectImg}
                     alt={project.title} 
                     className="w-full h-auto object-cover rounded-xl filter grayscale group-hover:grayscale-0 transition-all duration-500 shadow-2xl"
                   />
