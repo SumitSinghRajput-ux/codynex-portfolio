@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "name": "sumit kumar",
+    "role": "Frontend Developer",
+    "tagline": "Crafting digital experiences with code and creativity."
+  },
+  "about": {
+    "intro": "I'm a passionate frontend developer obsessed with crafting highly interactive, pixel-perfect user interfaces. I blend design with engineering to build experiences that look beautiful and perform flawlessly.",
+    "cvUrl": "/Sumit_Kumar_CV.pdf"
+  },
+  "skills": {
+    "Frontend": ["React", "TypeScript", "Tailwind CSS", "Next.js"],
+    "Tools": ["Git", "Figma", "VS Code", "Vite","Postman"],
+    "Database": ["MySQL", "MongoDB"],
+    "Learning": ["Data Structures", "Python", "AI/ML"]
+  },
+
+  "experience": [
+    {
+      "id": 1,
+      "year": "2024 - 2026",
+      "title": "Senior Computer Teacher",
+      "company": "Advance International Model School, Lagankhel",
+      "description": "Designing and delivering comprehensive computer science curriculum for secondary-level students. Mentoring junior faculty, supervising the school computer lab, and integrating modern teaching tools to enhance digital literacy and student engagement."
+    },
+    {
+      "id": 2,
+      "year": "2023 - 2024",
+      "title": "Sales",
+      "description": "Handled outbound and inbound phone calls to promote and sell pharmaceutical products to clients. Built strong customer relationships, consistently met sales targets, and maintained accurate records of client interactions."
+    },
+    {
+      "id": 3,
+      "year": "2023 - Present",
+      "title": "Bachelor of Computer Application",
+      "company": "AIMS College, Lagankhel, Lalitpur",
+      "description": "Currently pursuing a Bachelor of Computer Application with a focus on programming, web development, database management, and software engineering. Actively building practical skills through academic projects and hands-on coursework."
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Online Resume Builder with AI",
+      "description": "An intelligent web application that helps users create professional resumes with AI-driven suggestions and formatting.",
+      "tech": ["React", "Tailwind CSS", "Node.js"],
+      "image": "/Screenshot 2026-04-28 152938.png", 
+      "demoLink": "#",
+      "githubLink": "https://github.com/SumitSinghRajput-ux/online-resume-builder.git"
+    }
+  ],
+
+  "contact": {
+    "email": "iamcodynex@gmail.com",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/SumitSinghRajput-ux",
+        "icon": "FaGithub"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "FaLinkedin"
+      }
+    ]
+  }
+}
