@@ -40,7 +40,7 @@ const CustomCursor = () => {
       y: mousePosition.y - 10,
       height: 20,
       width: 20,
-      backgroundColor: "#db2777", // Rose 600
+      backgroundColor: "#e7f9a9", // New Theme Accent
       borderRadius: "50%",
       transition: { type: "spring", stiffness: 700, damping: 30, mass: 0.5 },
     },
@@ -49,8 +49,8 @@ const CustomCursor = () => {
       y: mousePosition.y - 40,
       height: 80,
       width: 80,
-      backgroundColor: "rgba(219, 39, 119, 0.2)", // Rose 600 with opacity
-      border: "1px solid #db2777",
+      backgroundColor: "rgba(231, 249, 169, 0.2)", // New Theme Accent with opacity
+      border: "1px solid #e7f9a9",
       borderRadius: "50%",
       transition: { type: "spring", stiffness: 300, damping: 25, mass: 0.5 },
     },
