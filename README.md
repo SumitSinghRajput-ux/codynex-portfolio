@@ -1,16 +1,89 @@
-# React + Vite
+# Codynex Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my projects, skills, and experience as a frontend developer.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Live Site: https://sumitsinghrajput-ux.github.io/codynex-portfolio/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Responsive modern UI
+- Smooth animations with Framer Motion
+- Project showcase section
+- Skills and tech stack section
+- Resume preview/download
+- Contact section
+- Optimized for desktop and mobile devices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Icons
+
+---
+
+## 📂 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/SumitSinghRajput-UX/codynex-portfolio.git
+```
+
+Go to the project directory:
+
+```bash
+cd codynex-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Build & Deployment
+
+Build the project:
+
+```bash
+npm run build
+```
+
+Deploy to GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+---
+
+
+## 👨‍💻 Author
+
+**Sumit Singh Rajput**
+
+- GitHub: https://github.com/SumitSinghRajput-UX
+- Portfolio: https://sumitsinghrajput-ux.github.io/codynex-portfolio/
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
